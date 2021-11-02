@@ -1,0 +1,13 @@
+\\Student16\Areas$\2016205\gihtpib\fundamental-programming\Fundamental of programming\Console games\bin\Debug\netcoreapp3.1\Console games.exe
+\\Student16\Areas$\2016205\gihtpib\fundamental-programming\Fundamental of programming\Console games\bin\Debug\netcoreapp3.1\Console games.deps.json
+\\Student16\Areas$\2016205\gihtpib\fundamental-programming\Fundamental of programming\Console games\bin\Debug\netcoreapp3.1\Console games.runtimeconfig.json
+\\Student16\Areas$\2016205\gihtpib\fundamental-programming\Fundamental of programming\Console games\bin\Debug\netcoreapp3.1\Console games.runtimeconfig.dev.json
+\\Student16\Areas$\2016205\gihtpib\fundamental-programming\Fundamental of programming\Console games\bin\Debug\netcoreapp3.1\Console games.dll
+\\Student16\Areas$\2016205\gihtpib\fundamental-programming\Fundamental of programming\Console games\bin\Debug\netcoreapp3.1\Console games.pdb
+\\Student16\Areas$\2016205\gihtpib\fundamental-programming\Fundamental of programming\Console games\obj\Debug\netcoreapp3.1\Console games.csprojAssemblyReference.cache
+\\Student16\Areas$\2016205\gihtpib\fundamental-programming\Fundamental of programming\Console games\obj\Debug\netcoreapp3.1\Console games.AssemblyInfoInputs.cache
+\\Student16\Areas$\2016205\gihtpib\fundamental-programming\Fundamental of programming\Console games\obj\Debug\netcoreapp3.1\Console games.AssemblyInfo.cs
+\\Student16\Areas$\2016205\gihtpib\fundamental-programming\Fundamental of programming\Console games\obj\Debug\netcoreapp3.1\Console games.csproj.CoreCompileInputs.cache
+\\Student16\Areas$\2016205\gihtpib\fundamental-programming\Fundamental of programming\Console games\obj\Debug\netcoreapp3.1\Console games.dll
+\\Student16\Areas$\2016205\gihtpib\fundamental-programming\Fundamental of programming\Console games\obj\Debug\netcoreapp3.1\Console games.pdb
+\\Student16\Areas$\2016205\gihtpib\fundamental-programming\Fundamental of programming\Console games\obj\Debug\netcoreapp3.1\Console games.genruntimeconfig.cache
